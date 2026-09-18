@@ -1,0 +1,2 @@
+"JavatoPy" porque estaba leyendo el siguiente cuadernillo de practicas para java [CUADERNILLO DE PRACTICAS JAVA NETBEANS 1_PARCIAL CBT.pdf](https://github.com/user-attachments/files/32367346/CUADERNILLO.DE.PRACTICAS.JAVA.NETBEANS.1_PARCIAL.CBT.pdf)
+y me dio curiosidad entrenar mi lógica tratando de traducir un lenguaje de programación a otro sin otro apoyo que no sean los ejercicios del libro... y aquí estamos! sigan viendo
